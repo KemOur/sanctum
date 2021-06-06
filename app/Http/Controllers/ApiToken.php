@@ -86,9 +86,7 @@ class ApiToken extends Controller
         return response()->json(null, 204);
     }
 
-    public function posts()
-    {
-
-    }
+    /*public function posts()
+    { }*/
 }
 
